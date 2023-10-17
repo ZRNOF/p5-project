@@ -4,10 +4,19 @@ This is a basic template for building p5.js applications using Webpack.
 
 ## Getting Started
 
-### 1. Install Dependencies
+### 1. Installation
+
+#### Option 1: Clone the Repository
 
 ```bash
+git clone https://github.com/ZRNOF/p5-project.git
+cd p5-project
 npm install
+```
+#### Option 2: Use with npx
+
+```bash
+npx p5-project
 ```
 
 ### 2. Build in Development Mode
