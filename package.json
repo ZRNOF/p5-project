@@ -8,6 +8,11 @@
 		"dev": "cross-env NODE_ENV=development webpack --watch",
 		"build": "cross-env NODE_ENV=production webpack"
 	},
+	"bin": "./bin/init.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ZRNOF/p5-project"
+	},
 	"keywords": [
 		"p5"
 	],
